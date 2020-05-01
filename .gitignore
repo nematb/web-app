@@ -1,0 +1,4 @@
+/venv/
+/.idea/
+/project_app/__pycache__/
+db.sqlite3
